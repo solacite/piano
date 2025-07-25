@@ -1,7 +1,10 @@
-# June 8th: Got the screen to work!
+# 2 // July 20
+## hrs: 1
 
-[actual journal content - what did you do?]
+![IMG_0708.jpeg](attachment:79822ffd-717e-4eef-af9a-cc8f0499c3b1:IMG_0708.jpeg)
 
-[insert pictures of what you're working on!]
+Found a Yamaha Clavinova with a friend and measured it together :)
 
-**Total time spent: 2h**
+# 1 // July 19 - initial ideas
+
+I want to make a portable piano keyboard. I opened Fusion 360 and yeah I’m looking for stuff, like the measurements for the keys. I can’t find this certain length…I dunno. I made the sketch for a white key so far though.
