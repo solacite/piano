@@ -1,3 +1,8 @@
+# 3 // July 24
+## hrs: TBD
+
+TBD
+
 # 2 // July 20
 ## hrs: 1
 
