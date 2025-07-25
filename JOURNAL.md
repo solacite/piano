@@ -1,7 +1,7 @@
 # 2 // July 20
 ## hrs: 1
 
-![IMG_0708.jpeg](attachment:79822ffd-717e-4eef-af9a-cc8f0499c3b1:IMG_0708.jpeg)
+![piano measuring!](attachment:july20_measuring.jpeg)
 
 Found a Yamaha Clavinova with a friend and measured it together :)
 
