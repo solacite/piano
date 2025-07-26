@@ -23,7 +23,7 @@ I made an initial design, but making a sketch w/o a diagram sucks. I’ll make o
 
 So it’s 9:45. Made a sketch…
 
-<img src="images/july24_keyboardDiagram.jpeg" alt="diagram of keyboard" style="max-width: 400px;">
+<img src="images/july24_keyboardDiagram.jpeg" alt="diagram of keyboard" style="max-width: 10px;">
 
 10:44pm, just opened Fusion. I'm gonna try to design the basic parts of the keys. I'll figure out electronics tomorrow 'cause I'm lazy.
 
