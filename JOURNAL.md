@@ -1,3 +1,13 @@
+# 4 // July 25
+### hrs: 1
+![f360 design](images/july25_design.png)
+
+Made a sketch on Fusion for 1/4 of the keyboard with previous measurements, but the top part for the black keys doesn’t match up with the whole setup I have. It’s short by 16.35 - 15.9 = 0.45cm.
+
+0.45 divided by 5 black keys is a nice number, 0.9. I’m going to add 0.9cm to each black key and redraw my design. Wait, nevermind. Tried it on rapidtables and it looked way too big. Time to find an alternative.
+
+![calculations](images/july25_calculations.png)
+
 # 3 // July 24
 ### hrs: TBD
 
