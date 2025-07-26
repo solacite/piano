@@ -9,7 +9,7 @@ Made a sketch on Fusion for 1/4 of the keyboard with previous measurements, but 
 ![calculations](images/july25_calculations.png)
 
 # 3 // July 24
-### hrs: TBD
+### hrs: 2
 
 Okay I was encountering hella errors but I finally got it to work (9:26am)!!
 
@@ -23,7 +23,7 @@ I made an initial design, but making a sketch w/o a diagram sucks. I’ll make o
 
 So it’s 9:45. Made a sketch…
 
-![diagram of keyboard](images/july24_keyboardDiagram.png)
+![diagram of keyboard](images/july24_keyboardDiagram.jpeg)
 
 10:44pm, just opened Fusion. I'm gonna try to design the basic parts of the keys. I'll figure out electronics tomorrow 'cause I'm lazy.
 
